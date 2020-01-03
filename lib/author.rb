@@ -5,3 +5,6 @@ class Author
     @name = name 
   end 
   
+  def add_post 
+    
+  
